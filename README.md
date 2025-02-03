@@ -16,7 +16,7 @@ This is a simple and responsive **Profile Card** built using **HTML** and **CSS*
 ## 🔹 How to Use  
 1. Clone the repository:  
     ```bash
-        git clone https://github.com/your-username/profile-card.git
+        git clone https://github.com/Amine4jh/profile-card.git
     ```
 
 2. Open index.html in your browser.
