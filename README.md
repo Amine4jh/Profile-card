@@ -20,14 +20,3 @@ This is a simple and responsive **Profile Card** built using **HTML** and **CSS*
     ```
 
 2. Open index.html in your browser.
-
-## 🔹 Live Demo
-
-Live Preview (Replace with your demo link if available)
-
-
-## 🔹 Author
-
-👤 Amine Ajaha
-
-    GitHub: Amine4jh
